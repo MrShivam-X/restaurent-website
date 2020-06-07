@@ -1,0 +1,10 @@
+.main{
+  background-color: yellow;
+  margin:30px;
+  padding: 50px;
+  height:400px;
+}
+.button{
+  padding:20px;
+  text-align: center;
+}
