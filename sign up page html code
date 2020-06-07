@@ -1,0 +1,31 @@
+!DOCTYPE html>
+<html>
+<head>
+<title>restro signup</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<form>
+  <div class="main">
+  <marquee style="color:blue">
+  please provide your details.</marquee>
+    <label> Name: </label>
+    <br>
+  <input type="text" placeholder="Name" required="please fill details">
+    <br>
+  <label> Email: </label>
+    <br>
+  <input type="text" placeholder="Email" >
+  <br>
+  <label> password: </label>
+    <br>
+  <input type="text" placeholder="password">
+  <br>
+  <div class="button">
+  <input type="button" value="register here" onclick="window.alert('you are registered successfully')">
+    </div>
+    </div>
+  </form>
+</body>
+</html>
