@@ -1,0 +1,26 @@
+!DOCTYPE html>
+<html>
+<head>
+<title>restro login</title>
+</head>
+<body>
+  <div class="main">
+  <form>
+    <label> Name: </label>
+    <br>
+  <input type="text" placeholder="Name" required="required">
+    <br>
+  <label> Password: </label>
+    <br>
+  <input type="text" placeholder="Password">
+  <br>
+    <div class="button">
+    <input type="button" value="login" style="color:green">
+      </div>
+    <h5> Don't have an account?  <a href="  " onclick="window.alert('do you want to continue??')" > sign up.</a>  </h5>
+    
+  </form>
+</div>
+
+</body>
+</html>
