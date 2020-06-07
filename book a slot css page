@@ -1,0 +1,16 @@
+.button{
+ background-color: red;
+  padding: 10px;
+  margin:20px;
+  width:80px;
+  text-align: center;
+}
+.main{
+  background-color: yellow;
+  width:200px;
+  margin:60px;
+  padding:10px ;
+  position:absolute;
+  
+  
+}
