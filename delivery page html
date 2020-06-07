@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>delivery page</title>
+</head>
+<body>
+<form>
+  <div class="main">
+  
+    <label> Name: </label>
+    <br>
+  <input type="text" placeholder="Name" required="please fill details">
+    <br>
+  <label> Email: </label>
+    <br>
+  <input type="text" placeholder="Email">
+  <br>
+  <label> Phone Number: </label>
+    <br>
+  <input type="number" placeholder="Phone Number">
+    
+    <br>
+    
+    <label>  Street Name: </label>
+    <br>
+  <input type="text" placeholder=" Street Name" required="please fill details">
+    <br>
+    <label> City: </label>
+    <br>
+  <input type="text" placeholder="City" required="please fill details">
+    <br>
+    <label> Name: </label>
+    <br>
+  <input type="State" placeholder="State" required="please fill details">
+    <br>
+    <label> Name: </label>
+    <br>
+  <input type="number" placeholder="Pin Code" required="please fill details">
+    <br>
+  
+  <div class="button">
+    <input type="button" value="continue" style="color:orange"   >
+  
+  </div>
+  
+</div>
+  </form>
+  </body>
+</html>
