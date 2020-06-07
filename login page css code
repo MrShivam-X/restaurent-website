@@ -1,0 +1,16 @@
+.main{
+  background-color: yellow;
+  margin:20px;
+  padding: 40px;
+  position:absolute;
+  height: 200px;
+  width:200px
+  
+}
+.button{
+  text-align: center;
+  padding:20px;
+  height: 10px;
+  
+ 
+}
